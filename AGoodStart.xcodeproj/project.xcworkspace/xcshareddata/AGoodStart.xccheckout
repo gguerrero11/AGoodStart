@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F2202E4-94E9-49D8-A11D-41129CB2D666</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AGoodStart</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2BDFA0C532CBDCF513C382F4684881384EC94988</key>
+		<string>https://github.com/gguerrero11/AGoodStart.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>AGoodStart.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2BDFA0C532CBDCF513C382F4684881384EC94988</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gguerrero11/AGoodStart.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2BDFA0C532CBDCF513C382F4684881384EC94988</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2BDFA0C532CBDCF513C382F4684881384EC94988</string>
+			<key>IDESourceControlWCCName</key>
+			<string>agoodstartclone%2017-31-45-199</string>
+		</dict>
+	</array>
+</dict>
+</plist>
